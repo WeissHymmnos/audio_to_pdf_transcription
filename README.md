@@ -84,10 +84,6 @@ Whisper 提供 `progress_callback`，实时写 `.prog` 文件 → 前端轮询 `
 | 进度卡 10% | 远程仓库非空，先 `git pull --allow-unrelated-histories` |
 | 900 MB 失败 | 调大 `MAX_CONTENT_LENGTH` 或使用分片上传（已内置） |
 
----
 
-MIT © WeissHymmnos
-
----
 
 Star 一下，持续更新 👀
