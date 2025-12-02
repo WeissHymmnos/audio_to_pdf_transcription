@@ -86,7 +86,6 @@ Whisper 提供 `progress_callback`，实时写 `.prog` 文件 → 前端轮询 `
 
 ---
 
-## 📄 许可证
 MIT © WeissHymmnos
 
 ---
